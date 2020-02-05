@@ -1,0 +1,2 @@
+on fs
+	setprop ro.vendor.build.fingerprint Nokia/Frontier_00RU/FRT:9/PPR1.180610.011/00WW_2_200:user/release-keys

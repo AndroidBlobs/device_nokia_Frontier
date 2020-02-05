@@ -1,0 +1,12 @@
+etc/firmware/catcher_filter_1_ltg_4.bin
+etc/firmware/catcher_filter_1_ltg_5.bin
+etc/firmware/catcher_filter_1_ltg_6.bin
+etc/firmware/catcher_filter_1_lwg_4.bin
+etc/firmware/catcher_filter_1_lwg_5.bin
+etc/firmware/catcher_filter_1_lwg_6.bin
+etc/firmware/em_filter_1_ltg_4.bin
+etc/firmware/em_filter_1_ltg_5.bin
+etc/firmware/em_filter_1_ltg_6.bin
+etc/firmware/em_filter_1_lwg_4.bin
+etc/firmware/em_filter_1_lwg_5.bin
+etc/firmware/em_filter_1_lwg_6.bin
