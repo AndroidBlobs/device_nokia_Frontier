@@ -9,4 +9,4 @@ on fs
     setprop ro.vendor.mtk_bg_power_saving_support 0
     setprop ro.product.vendor.manufacturer "HMD Global"
 on fs
-	setprop ro.vendor.build.fingerprint Nokia/Frontier_00WW/FRT:9/PPR1.180610.011/00WW_2_130:user/release-keys
+	setprop ro.vendor.build.fingerprint Nokia/Frontier_00WW/FRT:9/PPR1.180610.011/00WW_2_200:user/release-keys

@@ -17,7 +17,7 @@ PRODUCT_MODEL := FRT
 PRODUCT_GMS_CLIENTID_BASE := android-nokia
 TARGET_VENDOR := nokia
 TARGET_VENDOR_PRODUCT_NAME := Frontier
-PRODUCT_BUILD_PROP_OVERRIDES += PRIVATE_BUILD_DESC="Frontier_00WW-user 9 PPR1.180610.011 00WW_2_130 release-keys"
+PRODUCT_BUILD_PROP_OVERRIDES += PRIVATE_BUILD_DESC="Frontier_00WW-user 9 PPR1.180610.011 00WW_2_200 release-keys"
 
 # Set BUILD_FINGERPRINT variable to be picked up by both system and vendor build.prop
-BUILD_FINGERPRINT := Nokia/Frontier_00WW/FRT:9/PPR1.180610.011/00WW_2_130:user/release-keys
+BUILD_FINGERPRINT := Nokia/Frontier_00WW/FRT:9/PPR1.180610.011/00WW_2_200:user/release-keys

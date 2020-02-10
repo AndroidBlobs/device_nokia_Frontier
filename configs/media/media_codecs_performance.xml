@@ -149,7 +149,7 @@ Only the three quirks included above are recognized at this point:
             <Limit name="measured-frame-rate-176x144" range="110-243" />
         </MediaCodec>
         <MediaCodec name="OMX.google.h263.decoder" type="video/3gpp" update="true">
-            <Limit name="measured-frame-rate-176x144" range="80-177" />
+            <Limit name="measured-frame-rate-176x144" range="97-213" />
         </MediaCodec>
         <MediaCodec name="OMX.google.h264.decoder" type="video/avc" update="true">
             <Limit name="measured-frame-rate-320x240" range="75-165" />
